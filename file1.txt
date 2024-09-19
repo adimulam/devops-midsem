@@ -1,1 +1,3 @@
 This is file1 and I just modified it
+
+Fixed file1, removed sensitive data
